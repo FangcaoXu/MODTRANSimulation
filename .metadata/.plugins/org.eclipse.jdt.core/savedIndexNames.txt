@@ -1,3 +1,0 @@
-INDEX VERSION 1.131+/amethyst/s0/fbx5002/PythonWorkingDir/runMODTRAN/.metadata/.plugins/org.eclipse.jdt.core
-1467829520.index
-690941736.index
